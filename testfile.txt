@@ -1,3 +1,2 @@
-This is a test.
-I'm editing on GitHub
+This is a test
 
